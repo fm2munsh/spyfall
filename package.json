@@ -1,0 +1,17 @@
+{
+  "name": "spyfall-backend",
+  "version": "1.0.0",
+  "description": "Backend for the mobile spyfall app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan Munshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.7.5",
+    "redis": "^2.6.3",
+    "socket.io": "^1.7.2"
+  }
+}
